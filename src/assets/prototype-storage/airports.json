@@ -1,0 +1,1387 @@
+{
+    "DestinationLocations": [{
+        "DestinationLocation": {
+            "AirportCode": "ADL",
+            "AirportName": "Adelaide",
+            "CityName": "Adelaide",
+            "CountryCode": "AU",
+            "CountryName": "Australia",
+            "RegionName": "Asia Pacific"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "ALB",
+            "AirportName": "Albany International Airport",
+            "CityName": "Albany",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "ABQ",
+            "AirportName": "Albuquerque International Sunport",
+            "CityName": "Albuquerque",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "AMS",
+            "AirportName": "Amsterdam-Schiphol",
+            "CityName": "Amsterdam",
+            "CountryCode": "NL",
+            "CountryName": "Netherlands",
+            "RegionName": "Europe"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "SCL",
+            "AirportName": "Arturo Merino Benitez",
+            "CityName": "Santiago",
+            "CountryCode": "CL",
+            "CountryName": "Chile",
+            "RegionName": "Latin America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "IST",
+            "AirportName": "Ataturk",
+            "CityName": "Istanbul",
+            "CountryCode": "TR",
+            "CountryName": "Turkey",
+            "RegionName": "Europe"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "ACY",
+            "AirportName": "Atlantic City International Airport",
+            "CityName": "Atlantic City",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "AUS",
+            "AirportName": "AustinBergstrom International Airport",
+            "CityName": "Austin",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "CAN",
+            "AirportName": "Baiyun",
+            "CityName": "Guangzhou",
+            "CountryCode": "CN",
+            "CountryName": "China",
+            "RegionName": "Asia Pacific"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "BWI",
+            "AirportName": "Baltimore/Washington International Thurg",
+            "CityName": "Baltimore",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "MAD",
+            "AirportName": "Barajas",
+            "CityName": "Madrid",
+            "CountryCode": "ES",
+            "CountryName": "Spain",
+            "RegionName": "Europe"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "BCN",
+            "AirportName": "Barcelona",
+            "CityName": "Barcelona",
+            "CountryCode": "ES",
+            "CountryName": "Spain",
+            "RegionName": "Europe"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "BRN",
+            "AirportName": "Belp",
+            "CityName": "Berne",
+            "CountryCode": "CH",
+            "CountryName": "Switzerland",
+            "RegionName": "Europe"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "BHM",
+            "AirportName": "BirminghamShuttlesworth International A",
+            "CityName": "Birmingham",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "BUR",
+            "AirportName": "Bob Hope Airport",
+            "CityName": "Burbank",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "BOI",
+            "AirportName": "Boise Airport",
+            "CityName": "Boise",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "BDL",
+            "AirportName": "Bradley International Airport",
+            "CityName": "Hartford",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "BUF",
+            "AirportName": "Buffalo Niagara International Airport",
+            "CityName": "Buffalo",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "CBR",
+            "AirportName": "Canberra",
+            "CityName": "Canberra",
+            "CountryCode": "AU",
+            "CountryName": "Australia",
+            "RegionName": "Asia Pacific"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "CUN",
+            "AirportName": "Cancun",
+            "CityName": "Cancun",
+            "CountryCode": "MX",
+            "CountryName": "Mexico",
+            "RegionName": "Latin America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "PEK",
+            "AirportName": "Capital",
+            "CityName": "Beijing",
+            "CountryCode": "CN",
+            "CountryName": "China",
+            "RegionName": "Asia Pacific"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "CDG",
+            "AirportName": "Ch. De Gaulle",
+            "CityName": "Paris",
+            "CountryCode": "FR",
+            "CountryName": "France",
+            "RegionName": "Europe"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "SIN",
+            "AirportName": "Changi",
+            "CityName": "Singapore",
+            "CountryCode": "SG",
+            "CountryName": "Singapore",
+            "RegionName": "Asia Pacific"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "CHS",
+            "AirportName": "Charleston International Airport",
+            "CityName": "Charleston",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "CLT",
+            "AirportName": "Charlotte Douglas International Airport",
+            "CityName": "Charlotte",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "BOM",
+            "AirportName": "Chhatrapati Shivaji",
+            "CityName": "Mumbai",
+            "CountryCode": "IN",
+            "CountryName": "India",
+            "RegionName": "Asia Pacific"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "TPE",
+            "AirportName": "Chiang Kai Shek",
+            "CityName": "Taipei",
+            "CountryCode": "TW",
+            "CountryName": "Taiwan",
+            "RegionName": "Asia Pacific"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "MDW",
+            "AirportName": "Chicago Midway International Airport",
+            "CityName": "Chicago",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "ORD",
+            "AirportName": "Chicago O'Hare International Airport",
+            "CityName": "Chicago",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "CVG",
+            "AirportName": "Cincinnati Northern Kentucky Internation",
+            "CityName": "Cincinnati",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "CLE",
+            "AirportName": "Cleveland Hopkins International Airport",
+            "CityName": "Cleveland",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "LIT",
+            "AirportName": "Clinton National Airport",
+            "CityName": "Little Rock",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "COS",
+            "AirportName": "Colorado Springs Airport",
+            "CityName": "Colorado Springs",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "CAE",
+            "AirportName": "Columbia Metropolitan Airport",
+            "CityName": "Columbia",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "DAL",
+            "AirportName": "Dallas Love Field",
+            "CityName": "Dallas",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "DFW",
+            "AirportName": "Dallas/Fort Worth International Airport",
+            "CityName": "Dallas",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "MSN",
+            "AirportName": "Dane County Regional Airport",
+            "CityName": "Madison",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "DEN",
+            "AirportName": "Denver International Airport",
+            "CityName": "Denver",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "DSM",
+            "AirportName": "Des Moines International Airport",
+            "CityName": "Des Moines",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "DTW",
+            "AirportName": "Detroit Metropolitan Wayne County Airpor",
+            "CityName": "Detroit",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "DXB",
+            "AirportName": "Dubai International Airport",
+            "CityName": "Dubai",
+            "CountryCode": "AE",
+            "CountryName": "United Arab Emirates",
+            "RegionName": "Middle East"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "ELP",
+            "AirportName": "El Paso International Airport",
+            "CityName": "El Paso",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "BOG",
+            "AirportName": "Eldorado",
+            "CityName": "Bogota",
+            "CountryCode": "CO",
+            "CountryName": "Colombia",
+            "RegionName": "Latin America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "ATH",
+            "AirportName": "Eleftherios Venizelos",
+            "CityName": "Athens",
+            "CountryCode": "GR",
+            "CountryName": "Greece",
+            "RegionName": "Europe"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "FCO",
+            "AirportName": "Fiumicino",
+            "CityName": "Rome",
+            "CountryCode": "IT",
+            "CountryName": "Italy",
+            "RegionName": "Europe"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "FLL",
+            "AirportName": "Fort Lauderdale - Hollywood Internationa",
+            "CityName": "Fort Lauderdale",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "RSW",
+            "AirportName": "Fort Myers Southwest Florida Internation",
+            "CityName": "Fort Myers",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "MUC",
+            "AirportName": "Franz Josef Strauss",
+            "CityName": "Munich",
+            "CountryCode": "DE",
+            "CountryName": "Germany",
+            "RegionName": "Europe"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "BOS",
+            "AirportName": "General Edward Lawrence Logan Internatio",
+            "CityName": "Boston",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "MKE",
+            "AirportName": "General Mitchell International Airport",
+            "CityName": "Milwaukee",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "GRR",
+            "AirportName": "Gerald R Ford International Airport",
+            "CityName": "Grand Rapids",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "ROC",
+            "AirportName": "Greater Rochester International Airport",
+            "CityName": "Rochester",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "GSP",
+            "AirportName": "Greenville Spartanburg International Air",
+            "CityName": "Greenville",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "GRU",
+            "AirportName": "Guarulhos Intl",
+            "CityName": "Sao Paulo",
+            "CountryCode": "BR",
+            "CountryName": "Brazil",
+            "RegionName": "Latin America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "YHZ",
+            "AirportName": "Halifax International",
+            "CityName": "Halifax",
+            "CountryCode": "CA",
+            "CountryName": "Canada",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "MDT",
+            "AirportName": "Harrisburg International Airport",
+            "CityName": "Harrisburg",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "ATL",
+            "AirportName": "Hartsfield-Jackson Atlanta International",
+            "CityName": "Atlanta",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "LHR",
+            "AirportName": "Heathrow",
+            "CityName": "London",
+            "CountryCode": "GB",
+            "CountryName": "United Kingdom",
+            "RegionName": "Europe"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "SGN",
+            "AirportName": "Ho Chi Minh City",
+            "CityName": "Ho Chi Minh City",
+            "CountryCode": "VN",
+            "CountryName": "Viet Nam",
+            "RegionName": "Asia Pacific"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "HKG",
+            "AirportName": "Hong Kong Int'l",
+            "CityName": "Hong Kong",
+            "CountryCode": "HK",
+            "CountryName": "Hong Kong",
+            "RegionName": "Asia Pacific"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "HNL",
+            "AirportName": "Honolulu International Airport",
+            "CityName": "Honolulu",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "IAH",
+            "AirportName": "Houston George Bush Intercontinental Air",
+            "CityName": "Houston",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "HSV",
+            "AirportName": "Huntsville International Airport",
+            "CityName": "Huntsville",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "ICN",
+            "AirportName": "Incheon Int'l Airport",
+            "CityName": "Seoul",
+            "CountryCode": "KR",
+            "CountryName": "Korea - Republic Of",
+            "RegionName": "Asia Pacific"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "IND",
+            "AirportName": "Indianapolis International Airport",
+            "CityName": "Indianapolis",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "DEL",
+            "AirportName": "Indira Gandhi Intl",
+            "CityName": "Delhi",
+            "CountryCode": "IN",
+            "CountryName": "India",
+            "RegionName": "Asia Pacific"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "GIG",
+            "AirportName": "Internacional",
+            "CityName": "Rio De Janeiro",
+            "CountryCode": "BR",
+            "CountryName": "Brazil",
+            "RegionName": "Latin America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "YOW",
+            "AirportName": "International",
+            "CityName": "Ottawa",
+            "CountryCode": "CA",
+            "CountryName": "Canada",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "ISB",
+            "AirportName": "Islamabad Intl",
+            "CityName": "Islamabad",
+            "CountryCode": "PK",
+            "CountryName": "Pakistan",
+            "RegionName": "Asia Pacific"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "LIM",
+            "AirportName": "J Chavez Intl",
+            "CityName": "Lima",
+            "CountryCode": "PE",
+            "CountryName": "Peru",
+            "RegionName": "Latin America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "JAN",
+            "AirportName": "Jackson-Medgar Wiley Evers International",
+            "CityName": "Jackson",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "JAX",
+            "AirportName": "Jacksonville International Airport",
+            "CityName": "Jacksonville",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "DAY",
+            "AirportName": "James M. Cox Dayton International Airpor",
+            "CityName": "Dayton",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "JFK",
+            "AirportName": "John F. Kennedy International Airport",
+            "CityName": "New York",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "SNA",
+            "AirportName": "John Wayne Airport",
+            "CityName": "Santa Ana",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "MEX",
+            "AirportName": "Juarez International",
+            "CityName": "Mexico City",
+            "CountryCode": "MX",
+            "CountryName": "Mexico",
+            "RegionName": "Latin America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "OGG",
+            "AirportName": "Kahului Airport",
+            "CityName": "Kahului",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "MCI",
+            "AirportName": "Kansas City International Airport",
+            "CityName": "Kansas City",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "JED",
+            "AirportName": "King Abdulaziz Intl",
+            "CityName": "Jeddah",
+            "CountryCode": "SA",
+            "CountryName": "Saudi Arabia",
+            "RegionName": "Middle East"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "RUH",
+            "AirportName": "King Khaled Intl",
+            "CityName": "Riyadh",
+            "CountryCode": "SA",
+            "CountryName": "Saudi Arabia",
+            "RegionName": "Middle East"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "SYD",
+            "AirportName": "Kingsford Smith",
+            "CityName": "Sydney",
+            "CountryCode": "AU",
+            "CountryName": "Australia",
+            "RegionName": "Asia Pacific"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "KOA",
+            "AirportName": "Kona International Airport at Ke?hole",
+            "CityName": "Kona",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "KUL",
+            "AirportName": "Kuala Lumpur Int'l",
+            "CityName": "Kuala Lumpur",
+            "CountryCode": "MY",
+            "CountryName": "Malaysia",
+            "RegionName": "Asia Pacific"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "ONT",
+            "AirportName": "LA/Ontario International Airport",
+            "CityName": "Ontario",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "LGA",
+            "AirportName": "LaGuardia Airport",
+            "CityName": "New York",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "LHE",
+            "AirportName": "Lahore",
+            "CityName": "Lahore",
+            "CountryCode": "PK",
+            "CountryName": "Pakistan",
+            "RegionName": "Asia Pacific"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "STL",
+            "AirportName": "Lambert-St. Louis International Airport",
+            "CityName": "St Louis",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "LIH",
+            "AirportName": "Lihue Airport",
+            "CityName": "Kauai Island",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "LON",
+            "AirportName": "London Metropolitan Area",
+            "CityName": "London",
+            "CountryCode": "GB",
+            "CountryName": "United Kingdom",
+            "RegionName": "Europe"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "LAX",
+            "AirportName": "Los Angeles International Airport",
+            "CityName": "Los Angeles",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "SDF",
+            "AirportName": "Louisville International Airport",
+            "CityName": "Louisville",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "SJU",
+            "AirportName": "Luis Muoz Marn International Airport",
+            "CityName": "San Juan",
+            "CountryCode": "PR",
+            "CountryName": "Puerto Rico",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "MHT",
+            "AirportName": "Manchester-Boston Regional Airport",
+            "CityName": "Manchester",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "LAS",
+            "AirportName": "McCarran International Airport",
+            "CityName": "Las Vegas",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "TYS",
+            "AirportName": "McGhee Tyson Airport",
+            "CityName": "Knoxville",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "MEM",
+            "AirportName": "Memphis International Airport",
+            "CityName": "Memphis",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "MIA",
+            "AirportName": "Miami International Airport",
+            "CityName": "Miami",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "EZE",
+            "AirportName": "Ministro Pistarini",
+            "CityName": "Buenos Aires",
+            "CountryCode": "AR",
+            "CountryName": "Argentina",
+            "RegionName": "Latin America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "MSP",
+            "AirportName": "Minneapolis-Saint Paul International Air",
+            "CityName": "Minneapolis",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "NRT",
+            "AirportName": "Narita",
+            "CityName": "Tokyo",
+            "CountryCode": "JP",
+            "CountryName": "Japan",
+            "RegionName": "Asia Pacific"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "BNA",
+            "AirportName": "Nashville International Airport",
+            "CityName": "Nashville",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "MSY",
+            "AirportName": "New Orleans Louis Armstrong Airport",
+            "CityName": "New Orleans",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "EWR",
+            "AirportName": "Newark Liberty International Airport",
+            "CityName": "Newark",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "MNL",
+            "AirportName": "Ninoy Aquino Intl",
+            "CityName": "Manila",
+            "CountryCode": "PH",
+            "CountryName": "Philippines",
+            "RegionName": "Asia Pacific"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "ORF",
+            "AirportName": "Norfolk International Airport",
+            "CityName": "Norfolk",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "SJC",
+            "AirportName": "Norman Y. Mineta San Jose International",
+            "CityName": "San Jose",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "XNA",
+            "AirportName": "Northwest Arkansas Regional Airport",
+            "CityName": "Fayetteville",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "OAK",
+            "AirportName": "Oakland International Airport",
+            "CityName": "Oakland",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "OMA",
+            "AirportName": "Omaha Eppley Airfield",
+            "CityName": "Omaha",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "MCO",
+            "AirportName": "Orlando International Airport",
+            "CityName": "Orlando",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "PBI",
+            "AirportName": "Palm Beach International Airport",
+            "CityName": "West Palm Beach",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "PSP",
+            "AirportName": "Palm Springs Municipal Airport",
+            "CityName": "Palm Springs",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "YYZ",
+            "AirportName": "Pearson International",
+            "CityName": "Toronto",
+            "CountryCode": "CA",
+            "CountryName": "Canada",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "PNS",
+            "AirportName": "Pensacola International Airport",
+            "CityName": "Pensacola",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "PER",
+            "AirportName": "Perth",
+            "CityName": "Perth",
+            "CountryCode": "AU",
+            "CountryName": "Australia",
+            "RegionName": "Asia Pacific"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "PHL",
+            "AirportName": "Philadelphia International Airport",
+            "CityName": "Philadelphia",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "PHX",
+            "AirportName": "Phoenix Sky Harbor International Airport",
+            "CityName": "Phoenix",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "GSO",
+            "AirportName": "Piedmont Triad International Airport",
+            "CityName": "Greensboro/High Point",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "YUL",
+            "AirportName": "Pierre Elliott Trudeau",
+            "CityName": "Montreal",
+            "CountryCode": "CA",
+            "CountryName": "Canada",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "PIT",
+            "AirportName": "Pittsburgh International Airport",
+            "CityName": "Pittsburgh",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "CMH",
+            "AirportName": "Port Columbus International Airport",
+            "CityName": "Columbus",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "PDX",
+            "AirportName": "Portland International Airport",
+            "CityName": "Portland",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "PWM",
+            "AirportName": "Portland International Jetport",
+            "CityName": "Portland",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "PVG",
+            "AirportName": "Pu Dong",
+            "CityName": "Shanghai",
+            "CountryCode": "CN",
+            "CountryName": "China",
+            "RegionName": "Asia Pacific"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "KHI",
+            "AirportName": "Quaid-E-Azam Intl",
+            "CityName": "Karachi",
+            "CountryCode": "PK",
+            "CountryName": "Pakistan",
+            "RegionName": "Asia Pacific"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "RDU",
+            "AirportName": "Raleigh-Durham International Airport",
+            "CityName": "Durham",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "RNO",
+            "AirportName": "Reno-Tahoe International Airport",
+            "CityName": "Reno",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "RIC",
+            "AirportName": "Richmond International Airport",
+            "CityName": "Richmond",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "DCA",
+            "AirportName": "Ronald Reagan Washington National Airpor",
+            "CityName": "Washington",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "SMF",
+            "AirportName": "Sacramento International Airport",
+            "CityName": "Sacramento",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "SLC",
+            "AirportName": "Salt Lake City International Airport",
+            "CityName": "Salt Lake City",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "SAT",
+            "AirportName": "San Antonio International Airport",
+            "CityName": "San Antonio",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "SAN",
+            "AirportName": "San Diego International Airport",
+            "CityName": "San Diego",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "SFO",
+            "AirportName": "San Francisco International Airport",
+            "CityName": "San Francisco",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "SAV",
+            "AirportName": "Savannah Municipal Airport",
+            "CityName": "Savannah",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "SEA",
+            "AirportName": "Seattle Tacoma International Airport",
+            "CityName": "Seattle",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "SVO",
+            "AirportName": "Sheremetyevo",
+            "CityName": "Moscow",
+            "CountryCode": "RU",
+            "CountryName": "Russian Federation",
+            "RegionName": "Europe"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "CGK",
+            "AirportName": "Soekarno-Hatta Intl",
+            "CityName": "Jakarta",
+            "CountryCode": "ID",
+            "CountryName": "Indonesia",
+            "RegionName": "Asia Pacific"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "GEG",
+            "AirportName": "Spokane International Airport",
+            "CityName": "Spokane",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "SYR",
+            "AirportName": "Syracuse Hancock International Airport",
+            "CityName": "Syracuse",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "TPA",
+            "AirportName": "Tampa International Airport",
+            "CityName": "Tampa",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "ANC",
+            "AirportName": "Ted Stevens Anchorage International Airp",
+            "CityName": "Anchorage",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "PVD",
+            "AirportName": "Theodore Francis Green Memorial State Ai",
+            "CityName": "Providence",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "TUS",
+            "AirportName": "Tucson International Airport",
+            "CityName": "Tucson",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "MEL",
+            "AirportName": "Tullamarine",
+            "CityName": "Melbourne",
+            "CountryCode": "AU",
+            "CountryName": "Australia",
+            "RegionName": "Asia Pacific"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "TUL",
+            "AirportName": "Tulsa International Airport",
+            "CityName": "Tulsa",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "YVR",
+            "AirportName": "Vancouver Intl",
+            "CityName": "Vancouver",
+            "CountryCode": "CA",
+            "CountryName": "Canada",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "IAD",
+            "AirportName": "Washington Dulles International Airport",
+            "CityName": "Washington",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "ICT",
+            "AirportName": "Wichita Mid-Continent Airport",
+            "CityName": "Wichita",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "OKC",
+            "AirportName": "Will Rogers World Airport",
+            "CityName": "Oklahoma City",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "HOU",
+            "AirportName": "William P Hobby Airport",
+            "CityName": "Houston",
+            "CountryCode": "US",
+            "CountryName": "United States",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "YWG",
+            "AirportName": "Winnipeg",
+            "CityName": "Winnipeg",
+            "CountryCode": "CA",
+            "CountryName": "Canada",
+            "RegionName": "North America"
+        }
+    }, {
+        "DestinationLocation": {
+            "AirportCode": "DAC",
+            "AirportName": "Zia International",
+            "CityName": "Dhaka",
+            "CountryCode": "BD",
+            "CountryName": "Bangladesh",
+            "RegionName": "Asia Pacific"
+        }
+    }],
+    "Links": [{
+        "rel": "self",
+        "href": "https://api-crt.cert.havail.sabre.com/v1/lists/supported/historical/seasonality/airports"
+    }, {
+        "rel": "linkTemplate",
+        "href": "https://api-crt.cert.havail.sabre.com/v1/lists/supported/historical/seasonality/airports?country=<country>&region=<region>"
+    }]
+}

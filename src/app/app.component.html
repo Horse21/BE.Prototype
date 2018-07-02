@@ -1,0 +1,22 @@
+<div class="container-fluid page_box">
+  <div class="row no-gutters page_header-box">
+    <div class="col-12 no-gutters">
+      <h21-header [isPrototype]="true"
+                  (onPrototypeAuth)="prototypeAuth($event)"
+                  [username]="username"
+                  (onLogout)="logout()"
+                  [logotypeUrl]="'/assets/img/logo.svg'"
+                  [notifyList]="getNotifyList()">
+      </h21-header>
+      <h21-top-toolbar (onMenuClick)="showSidebar()"></h21-top-toolbar>
+    </div>
+  </div>
+  <div class="row no-gutters page_content-box">
+    <div class="col-12 no-gutters __has-sidebar">
+      <h21-sidebar></h21-sidebar>
+      <div class="map-box">
+      </div>
+    </div>
+  </div>
+	<button mat-fab class="page_help-btn" (click)="openHelpSection()" color="warn">?</button>
+</div>

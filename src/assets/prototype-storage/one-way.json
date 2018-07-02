@@ -1,0 +1,68 @@
+{
+	"groups": [
+		{
+			"price": 195.50,
+			"totalElapsedTime": 350,
+			"items": [
+				{
+					"departureDateTime": "2018-11-10T07:25:00+03:00",
+					"arrivalDateTime": "2018-11-10T08:50:00+03:00",
+					"flightNumber": "2912",
+					"resBookDesigCode": "V",
+					"elapsedTime": 205,
+					"departureAirportCode": "DFW",
+					"departureAirportTerminal": "E",
+					"arrivalAirportCode": "LAX",
+					"arrivalAirportTerminal": "2",
+					"arrivalLogo": "swiss.svg",
+					"departureLogo": "swiss.svg"
+
+				}
+			]
+		},
+		{
+			"price": 240,
+			"totalElapsedTime": 320,
+			"items": [
+				{
+					"departureDateTime": "2018-11-10T07:25:00+03:00",
+					"arrivalDateTime": "2018-11-10T08:50:00+03:00",
+					"flightNumber": "2912",
+					"resBookDesigCode": "V",
+					"elapsedTime": 150,
+					"departureAirportCode": "DFW",
+					"departureAirportTerminal": "E",
+					"arrivalAirportCode": "LAX",
+					"arrivalAirportTerminal": "2",
+					"arrivalLogo": "swiss.svg",
+					"departureLogo": "swiss.svg",
+					"transfers": [
+						{
+							"time": "2018-11-10T09:50:00+03:00",
+							"airportCode": "LAX"
+						}
+					]
+				}
+			]
+		},
+		{
+			"price": 205,
+			"totalElapsedTime": 330,
+			"items": [
+				{
+					"departureDateTime": "2018-11-10T07:25:00+03:00",
+					"arrivalDateTime": "2018-11-10T08:50:00+03:00",
+					"flightNumber": "2912",
+					"resBookDesigCode": "V",
+					"elapsedTime": 195,
+					"departureAirportCode": "DFW",
+					"departureAirportTerminal": "E",
+					"arrivalAirportCode": "LAX",
+					"arrivalAirportTerminal": "2",
+					"arrivalLogo": "swiss.svg",
+					"departureLogo": "swiss.svg"
+				}
+			]
+		}
+	]
+}

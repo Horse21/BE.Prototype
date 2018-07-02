@@ -1,0 +1,30 @@
+.header-container {
+  height: 64px;
+  box-sizing: border-box;
+  box-shadow: 0 2px 5px rgba(0,0,0, .45);
+  position: fixed;
+  z-index: 100;
+  width: 100%;
+}
+.content-container {
+  height: calc(100% - 64px);
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  box-sizing: border-box;
+  padding: 64px 0 0 0;
+}
+.content-container_sidebar {
+  flex-basis: 300px;
+  flex-shrink: 0;
+  padding: 16px;
+  box-sizing: border-box;
+  background: #fafafa;
+  box-shadow: 1px 0 1px rgba(0,0,0, .10);
+}
+.content-container_content {
+  flex-basis: 100%;
+  padding: 16px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,1290 @@
+[
+    {
+      "currencyCode": "ADP",
+      "name": "Andorran Peseta",
+      "numberOfDecimals": "0",
+      "id": 1,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "NIO",
+      "name": "Nicaragua Cordoba",
+      "numberOfDecimals": "2",
+      "id": 2,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "NLG",
+      "name": "Netherlands Guilder",
+      "numberOfDecimals": "2",
+      "id": 3,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "NOK",
+      "name": "Norwegian Krone",
+      "numberOfDecimals": "0",
+      "id": 4,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "NPR",
+      "name": "Nepalese Rupee",
+      "numberOfDecimals": "0",
+      "id": 5,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "NZD",
+      "name": "New Zealand Dollar",
+      "numberOfDecimals": "2",
+      "id": 6,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "OMR",
+      "name": "Oman Rial",
+      "numberOfDecimals": "3",
+      "id": 7,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "PAB",
+      "name": "Panamanian Balboa",
+      "numberOfDecimals": "2",
+      "id": 8,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "PEN",
+      "name": "Peruvian Nuevo Sol",
+      "numberOfDecimals": "2",
+      "id": 9,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "PGK",
+      "name": "Papua New Guinea Kina",
+      "numberOfDecimals": "2",
+      "id": 10,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "PHP",
+      "name": "Philippine Peso",
+      "numberOfDecimals": "0",
+      "id": 11,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "PKR",
+      "name": "Pakistan Rupee",
+      "numberOfDecimals": "0",
+      "id": 12,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "PLN",
+      "name": "Polish Zloty",
+      "numberOfDecimals": "2",
+      "id": 13,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "PSZ",
+      "name": "Palestinian Zits",
+      "numberOfDecimals": "2",
+      "id": 14,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "PTE",
+      "name": "Portuguese Escudo",
+      "numberOfDecimals": "1",
+      "id": 15,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "PYG",
+      "name": "Paraguayan Guarani",
+      "numberOfDecimals": "0",
+      "id": 16,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "QAR",
+      "name": "Qatari Rial",
+      "numberOfDecimals": "0",
+      "id": 17,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "RON",
+      "name": "New Romanian Leu",
+      "numberOfDecimals": "2",
+      "id": 18,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "RSD",
+      "name": "Serbian dinar",
+      "numberOfDecimals": "0",
+      "id": 19,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "RUB",
+      "name": "Russian Ruble",
+      "numberOfDecimals": "0",
+      "id": 20,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "NGN",
+      "name": "Nigerian Naira",
+      "numberOfDecimals": "0",
+      "id": 21,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "RWF",
+      "name": "Rwanda Franc",
+      "numberOfDecimals": "0",
+      "id": 22,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "NAD",
+      "name": "Namibia Dollar",
+      "numberOfDecimals": "0",
+      "id": 23,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "MYR",
+      "name": "Malaysian Ringgit",
+      "numberOfDecimals": "2",
+      "id": 24,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "LRD",
+      "name": "Liberian Dollar",
+      "numberOfDecimals": "2",
+      "id": 25,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "LSL",
+      "name": "Lesotho Loti",
+      "numberOfDecimals": "0",
+      "id": 26,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "LTL",
+      "name": "Lithuanian Litas",
+      "numberOfDecimals": "0",
+      "id": 27,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "LUF",
+      "name": "Luxembourg Franc",
+      "numberOfDecimals": "0",
+      "id": 28,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "LVL",
+      "name": "Latvian Lats",
+      "numberOfDecimals": "2",
+      "id": 29,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "LYD",
+      "name": "Libyan Dinar",
+      "numberOfDecimals": "3",
+      "id": 30,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "MAD",
+      "name": "Moroccan Dirham",
+      "numberOfDecimals": "0",
+      "id": 31,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "MDL",
+      "name": "Moldovan Leu",
+      "numberOfDecimals": "2",
+      "id": 32,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "MGA",
+      "name": "Malagasy Ariary",
+      "numberOfDecimals": "0",
+      "id": 33,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "MKD",
+      "name": "Macedonia Denar",
+      "numberOfDecimals": "0",
+      "id": 34,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "MMK",
+      "name": "Myanmar Kyat",
+      "numberOfDecimals": "0",
+      "id": 35,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "MNT",
+      "name": "Mongolia Tughrik",
+      "numberOfDecimals": "0",
+      "id": 36,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "MOP",
+      "name": "Macau Pataca",
+      "numberOfDecimals": "2",
+      "id": 37,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "MRO",
+      "name": "Mauritanian Ouguiya",
+      "numberOfDecimals": "0",
+      "id": 38,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "MTL",
+      "name": "Maltese Lira",
+      "numberOfDecimals": "2",
+      "id": 39,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "MUR",
+      "name": "Mauritius Rupee",
+      "numberOfDecimals": "0",
+      "id": 40,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "MVR",
+      "name": "Maldives Rufiyaa",
+      "numberOfDecimals": "2",
+      "id": 41,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "MWK",
+      "name": "Malawi Kwacha",
+      "numberOfDecimals": "0",
+      "id": 42,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "MXN",
+      "name": "Mexican Peso",
+      "numberOfDecimals": "0",
+      "id": 43,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "MZN",
+      "name": "Mozambique Metical",
+      "numberOfDecimals": "0",
+      "id": 44,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "LKR",
+      "name": "Sri Lanka Rupee",
+      "numberOfDecimals": "0",
+      "id": 45,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "SAR",
+      "name": "Saudi Riyal",
+      "numberOfDecimals": "2",
+      "id": 46,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "SCR",
+      "name": "Seycelles Rupee",
+      "numberOfDecimals": "0",
+      "id": 47,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "TZS",
+      "name": "Tanzanian Shilling",
+      "numberOfDecimals": "0",
+      "id": 48,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "UAH",
+      "name": "Ukrainian Hryvnia",
+      "numberOfDecimals": "0",
+      "id": 49,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "UGX",
+      "name": "Uganda Shilling",
+      "numberOfDecimals": "0",
+      "id": 50,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "USD",
+      "name": "US Dollar",
+      "numberOfDecimals": "2",
+      "id": 51,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "UYU",
+      "name": "Uruguay Peso",
+      "numberOfDecimals": "2",
+      "id": 52,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "UZS",
+      "name": "Uzbekistan Som",
+      "numberOfDecimals": "0",
+      "id": 53,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "VEB",
+      "name": "Venezuelan Bolivar",
+      "numberOfDecimals": "2",
+      "id": 54,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "VEF",
+      "name": "Venezuelan Bolivar Fuerte",
+      "numberOfDecimals": "0",
+      "id": 55,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "VND",
+      "name": "Vietnamese Dong",
+      "numberOfDecimals": "0",
+      "id": 56,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "VUV",
+      "name": "Vanuatu Vatu",
+      "numberOfDecimals": "0",
+      "id": 57,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "WST",
+      "name": "Western Samoan Tala",
+      "numberOfDecimals": "2",
+      "id": 58,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "XAF",
+      "name": "CFA Franc Beac",
+      "numberOfDecimals": "0",
+      "id": 59,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "XCD",
+      "name": "E Caribbean Dollar",
+      "numberOfDecimals": "2",
+      "id": 60,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "XOF",
+      "name": "CFA Franc Bceao",
+      "numberOfDecimals": "0",
+      "id": 61,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "XPF",
+      "name": "CFP franc",
+      "numberOfDecimals": "0",
+      "id": 62,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "XXX",
+      "name": "Air Canada Flight Pass",
+      "numberOfDecimals": "0",
+      "id": 63,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "YER",
+      "name": "Yemeni Rial",
+      "numberOfDecimals": "0",
+      "id": 64,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "ZAR",
+      "name": "South African Rand",
+      "numberOfDecimals": "2",
+      "id": 65,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "ZMK",
+      "name": "Zambian Kwacha",
+      "numberOfDecimals": "2",
+      "id": 66,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "TWD",
+      "name": "Taiwan New Dollar",
+      "numberOfDecimals": "0",
+      "id": 67,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "SBD",
+      "name": "Solomon Islands Dollar",
+      "numberOfDecimals": "2",
+      "id": 68,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "TTD",
+      "name": "Trinidad Tobago Dollar",
+      "numberOfDecimals": "0",
+      "id": 69,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "TOP",
+      "name": "Tonga Pa Anga",
+      "numberOfDecimals": "2",
+      "id": 70,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "SDD",
+      "name": "Sudan Dinar",
+      "numberOfDecimals": "2",
+      "id": 71,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "SDG",
+      "name": "Sudanese Pound",
+      "numberOfDecimals": "2",
+      "id": 72,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "SEK",
+      "name": "Swedish Krona",
+      "numberOfDecimals": "0",
+      "id": 73,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "SGD",
+      "name": "Singapore Dollar",
+      "numberOfDecimals": "2",
+      "id": 74,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "SIT",
+      "name": "Slovenia Tolar",
+      "numberOfDecimals": "2",
+      "id": 75,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "SKK",
+      "name": "Slovak Koruna",
+      "numberOfDecimals": "2",
+      "id": 76,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "SLL",
+      "name": "Sierra Leone Leone",
+      "numberOfDecimals": "2",
+      "id": 77,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "SOS",
+      "name": "Somali Shilling",
+      "numberOfDecimals": "2",
+      "id": 78,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "SRD",
+      "name": "Surinam Dollar",
+      "numberOfDecimals": "2",
+      "id": 79,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "SSP",
+      "name": "South Sudanese Pound",
+      "numberOfDecimals": "2",
+      "id": 80,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "STD",
+      "name": "Sao Tome Dobra",
+      "numberOfDecimals": "0",
+      "id": 81,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "SVC",
+      "name": "El Salvador Colon",
+      "numberOfDecimals": "2",
+      "id": 82,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "SYP",
+      "name": "Syrian Pound",
+      "numberOfDecimals": "0",
+      "id": 83,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "SZL",
+      "name": "Swaziland Lilangeni",
+      "numberOfDecimals": "0",
+      "id": 84,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "THB",
+      "name": "Thai Baht",
+      "numberOfDecimals": "0",
+      "id": 85,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "TJS",
+      "name": "Tajikistan Somoni",
+      "numberOfDecimals": "2",
+      "id": 86,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "TMM",
+      "name": "Turkmenistan Manat",
+      "numberOfDecimals": "2",
+      "id": 87,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "TMT",
+      "name": "Turkmenistan New Manat",
+      "numberOfDecimals": "2",
+      "id": 88,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "TND",
+      "name": "Tunisian Dinar",
+      "numberOfDecimals": "3",
+      "id": 89,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "TRY",
+      "name": "Turkey Lira",
+      "numberOfDecimals": "2",
+      "id": 90,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "LBP",
+      "name": "Lebanese Pound",
+      "numberOfDecimals": "0",
+      "id": 91,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "LAK",
+      "name": "Laos Kip",
+      "numberOfDecimals": "0",
+      "id": 92,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "KZT",
+      "name": "Kazakhstan Tenge",
+      "numberOfDecimals": "0",
+      "id": 93,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "BTN",
+      "name": "Bhutan Ngultrum",
+      "numberOfDecimals": "0",
+      "id": 94,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "BWP",
+      "name": "Botswana Pula",
+      "numberOfDecimals": "2",
+      "id": 95,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "BYN",
+      "name": "Belarusian Ruble",
+      "numberOfDecimals": "0",
+      "id": 96,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "BYR",
+      "name": "Belarusian Ruble",
+      "numberOfDecimals": "0",
+      "id": 97,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "BZD",
+      "name": "Belize Dollar",
+      "numberOfDecimals": "2",
+      "id": 98,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "CAD",
+      "name": "Canadian Dollar",
+      "numberOfDecimals": "2",
+      "id": 99,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "CDF",
+      "name": "Franc Congolais",
+      "numberOfDecimals": "3",
+      "id": 100,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "CHF",
+      "name": "Swiss Franc",
+      "numberOfDecimals": "2",
+      "id": 101,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "CLP",
+      "name": "Chilean Peso",
+      "numberOfDecimals": "0",
+      "id": 102,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "CNY",
+      "name": "Chinese Yuan",
+      "numberOfDecimals": "0",
+      "id": 103,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "COP",
+      "name": "Colombia Peso",
+      "numberOfDecimals": "0",
+      "id": 104,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "CRC",
+      "name": "Costa Rican Colon",
+      "numberOfDecimals": "0",
+      "id": 105,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "CSD",
+      "name": "Serbia Dinar",
+      "numberOfDecimals": "2",
+      "id": 106,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "CUP",
+      "name": "Cuban Peso",
+      "numberOfDecimals": "2",
+      "id": 107,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "CVE",
+      "name": "Cape Verde Escudo",
+      "numberOfDecimals": "0",
+      "id": 108,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "CYP",
+      "name": "Cyprus Pound",
+      "numberOfDecimals": "0",
+      "id": 109,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "CZK",
+      "name": "Czech Koruna",
+      "numberOfDecimals": "0",
+      "id": 110,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "DEM",
+      "name": "Deutsche Mark",
+      "numberOfDecimals": "2",
+      "id": 111,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "DJF",
+      "name": "Djibouti Franc",
+      "numberOfDecimals": "0",
+      "id": 112,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "BSD",
+      "name": "Bahamian Dollar",
+      "numberOfDecimals": "2",
+      "id": 113,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "DKK",
+      "name": "Danish Krone",
+      "numberOfDecimals": "0",
+      "id": 114,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "BRL",
+      "name": "Brazilian Real",
+      "numberOfDecimals": "2",
+      "id": 115,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "BND",
+      "name": "Brunei Dollar",
+      "numberOfDecimals": "2",
+      "id": 116,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "AED",
+      "name": "UAE Dirham",
+      "numberOfDecimals": "0",
+      "id": 117,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "AFN",
+      "name": "Afghanistan Afghani",
+      "numberOfDecimals": "0",
+      "id": 118,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "ALL",
+      "name": "Albanian Lek",
+      "numberOfDecimals": "0",
+      "id": 119,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "AMD",
+      "name": "Armenian Dram",
+      "numberOfDecimals": "0",
+      "id": 120,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "ANG",
+      "name": "Netherlands Antillies Guilder",
+      "numberOfDecimals": "0",
+      "id": 121,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "AOA",
+      "name": "Kwanza",
+      "numberOfDecimals": "0",
+      "id": 122,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "ARS",
+      "name": "Argentine Peso",
+      "numberOfDecimals": "2",
+      "id": 123,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "ATS",
+      "name": "Austrian Schilling",
+      "numberOfDecimals": "2",
+      "id": 124,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "AUD",
+      "name": "Australian Dollar",
+      "numberOfDecimals": "2",
+      "id": 125,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "AWG",
+      "name": "Aruban Guilder",
+      "numberOfDecimals": "0",
+      "id": 126,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "AZN",
+      "name": "Azerbaijanian Manat",
+      "numberOfDecimals": "2",
+      "id": 127,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "BAM",
+      "name": "Convertable Marks",
+      "numberOfDecimals": "0",
+      "id": 128,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "BBD",
+      "name": "Barbados Dollar",
+      "numberOfDecimals": "2",
+      "id": 129,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "BDT",
+      "name": "Bangladesh Taka",
+      "numberOfDecimals": "0",
+      "id": 130,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "BEF",
+      "name": "Belgian Franc",
+      "numberOfDecimals": "0",
+      "id": 131,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "BGN",
+      "name": "Bulgarian Lev",
+      "numberOfDecimals": "2",
+      "id": 132,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "BHD",
+      "name": "Bahraini Dinar",
+      "numberOfDecimals": "3",
+      "id": 133,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "BIF",
+      "name": "Burundi Franc",
+      "numberOfDecimals": "0",
+      "id": 134,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "BMD",
+      "name": "Bermuda Dollar",
+      "numberOfDecimals": "2",
+      "id": 135,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "BOB",
+      "name": "Bolivian Boliviano",
+      "numberOfDecimals": "2",
+      "id": 136,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "DOP",
+      "name": "Dominican Peso",
+      "numberOfDecimals": "0",
+      "id": 137,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "DZD",
+      "name": "Algerian Dinar",
+      "numberOfDecimals": "0",
+      "id": 138,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "EEK",
+      "name": "Estonian Kroon",
+      "numberOfDecimals": "2",
+      "id": 139,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "IDR",
+      "name": "Indonesian Rupiah",
+      "numberOfDecimals": "0",
+      "id": 140,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "IEP",
+      "name": "Irish Pound",
+      "numberOfDecimals": "2",
+      "id": 141,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "ILS",
+      "name": "Israeli Shekel",
+      "numberOfDecimals": "0",
+      "id": 142,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "INR",
+      "name": "Indian Rupee",
+      "numberOfDecimals": "0",
+      "id": 143,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "IQD",
+      "name": "Iraqi Dinar",
+      "numberOfDecimals": "3",
+      "id": 144,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "IRR",
+      "name": "Iranian Rial",
+      "numberOfDecimals": "0",
+      "id": 145,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "ISK",
+      "name": "Iceland Krona",
+      "numberOfDecimals": "0",
+      "id": 146,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "ITL",
+      "name": "Italian Lira",
+      "numberOfDecimals": "0",
+      "id": 147,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "JMD",
+      "name": "Jamaican Dollar",
+      "numberOfDecimals": "0",
+      "id": 148,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "JOD",
+      "name": "Jordanian Dinar",
+      "numberOfDecimals": "2",
+      "id": 149,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "JPY",
+      "name": "Japanese Yen",
+      "numberOfDecimals": "0",
+      "id": 150,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "KES",
+      "name": "Kenyan Shilling",
+      "numberOfDecimals": "0",
+      "id": 151,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "KGS",
+      "name": "Kyrgyzstan Som",
+      "numberOfDecimals": "0",
+      "id": 152,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "KHR",
+      "name": "Cambodia Riel",
+      "numberOfDecimals": "0",
+      "id": 153,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "KMF",
+      "name": "Comoro Franc",
+      "numberOfDecimals": "0",
+      "id": 154,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "KPW",
+      "name": "North Korean Won",
+      "numberOfDecimals": "0",
+      "id": 155,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "KRW",
+      "name": "Korean Republic Won",
+      "numberOfDecimals": "0",
+      "id": 156,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "KWD",
+      "name": "Kuwaiti Dinar",
+      "numberOfDecimals": "3",
+      "id": 157,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "KYD",
+      "name": "Cayman Islands Dollar",
+      "numberOfDecimals": "2",
+      "id": 158,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "HUF",
+      "name": "Hungarian Forint",
+      "numberOfDecimals": "0",
+      "id": 159,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "HTG",
+      "name": "Haitian Gourde",
+      "numberOfDecimals": "2",
+      "id": 160,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "HRK",
+      "name": "Croatian Kuna",
+      "numberOfDecimals": "2",
+      "id": 161,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "HNL",
+      "name": "Honduran Lempira",
+      "numberOfDecimals": "2",
+      "id": 162,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "EGP",
+      "name": "Egyptian Pound",
+      "numberOfDecimals": "2",
+      "id": 163,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "ERN",
+      "name": "Eritrea Nakfa",
+      "numberOfDecimals": "0",
+      "id": 164,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "ESP",
+      "name": "Spanish Pesetas",
+      "numberOfDecimals": "0",
+      "id": 165,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "ETB",
+      "name": "Ethiopian Birr",
+      "numberOfDecimals": "0",
+      "id": 166,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "EUR",
+      "name": "Euro",
+      "numberOfDecimals": "2",
+      "id": 167,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "FIM",
+      "name": "Finnish Markka",
+      "numberOfDecimals": "2",
+      "id": 168,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "FJD",
+      "name": "Fiji Dollar",
+      "numberOfDecimals": "2",
+      "id": 169,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "FKP",
+      "name": "Falkland Islands Pound",
+      "numberOfDecimals": "2",
+      "id": 170,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "FRF",
+      "name": "French Franc",
+      "numberOfDecimals": "2",
+      "id": 171,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "ZMW",
+      "name": "Zambia Kwacha",
+      "numberOfDecimals": "0",
+      "id": 172,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "GBP",
+      "name": "United kingdom Pound",
+      "numberOfDecimals": "2",
+      "id": 173,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "GHS",
+      "name": "Ghana Cedi",
+      "numberOfDecimals": "2",
+      "id": 174,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "GIP",
+      "name": "Gibraltar Pound",
+      "numberOfDecimals": "2",
+      "id": 175,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "GMD",
+      "name": "Gambian Dalasi",
+      "numberOfDecimals": "2",
+      "id": 176,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "GNF",
+      "name": "Guinea Franc",
+      "numberOfDecimals": "0",
+      "id": 177,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "GRD",
+      "name": "Greek Drachma",
+      "numberOfDecimals": "0",
+      "id": 178,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "GTQ",
+      "name": "Guatemala Quetzal",
+      "numberOfDecimals": "2",
+      "id": 179,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "GWP",
+      "name": "Guinea-Bissau Peso",
+      "numberOfDecimals": "2",
+      "id": 180,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "GYD",
+      "name": "Guyana Dollar",
+      "numberOfDecimals": "0",
+      "id": 181,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "HKD",
+      "name": "Hong Kong Dollar",
+      "numberOfDecimals": "0",
+      "id": 182,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "GEL",
+      "name": "Georgian Lari",
+      "numberOfDecimals": "2",
+      "id": 183,
+      "isTransient": false
+    },
+    {
+      "currencyCode": "ZWR",
+      "name": "Zimbabwe Dollar",
+      "numberOfDecimals": "2",
+      "id": 184,
+      "isTransient": false
+    }
+  ]

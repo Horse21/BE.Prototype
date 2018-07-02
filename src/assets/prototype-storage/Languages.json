@@ -1,0 +1,20 @@
+[
+    {
+      "code": "en-GB",
+      "name": "English",
+      "id": 1,
+      "isTransient": false
+    },
+    {
+      "code": "fr-CH",
+      "name": "French",
+      "id": 2,
+      "isTransient": false
+    },
+    {
+      "code": "ru-RU",
+      "name": "Русский",
+      "id": 3,
+      "isTransient": false
+    }
+  ]
