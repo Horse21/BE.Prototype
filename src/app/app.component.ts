@@ -70,4 +70,8 @@ export class AppComponent {
 	openHelpSection(): void {
 		this.rightPanelDialog.open('h21-help');
 	}
+
+	search(searchPattern: string) {
+		console.log('test - ' + searchPattern);
+	}
 }
