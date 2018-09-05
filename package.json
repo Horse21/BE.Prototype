@@ -5,7 +5,7 @@
 	"scripts": {
 		"ng": "ng",
 		"start": "ng serve --preserve-symlinks -sm -ec",
-		"build": "ng build",
+		"build": "ng build --bh /airbe/",
 		"lint": "ng lint --fix"
 	},
 	"private": true,
