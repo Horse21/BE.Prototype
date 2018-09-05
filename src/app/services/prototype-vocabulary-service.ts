@@ -15,7 +15,7 @@ export class PrototypeVocabularyService implements VocabularyService {
 		if (!pattern || pattern.length < 2) {
 			return Observable.create();
 		}
-		return this._http.get<City[]>("../../../assets/prototype-storage/Cities.json")
+		return this._http.get<City[]>("./assets/prototype-storage/Cities.json")
 			.pipe(map(data => {
 				return data.filter(x => x.name.indexOf(pattern) != -1)
 					.filter((i, index) => (
@@ -28,11 +28,11 @@ export class PrototypeVocabularyService implements VocabularyService {
 
 		switch (options.searchMode) {
 			case 'round_trip':
-				return this._http.get<SearchResult>('../../../assets/prototype-storage/round-trip.json');
+				return this._http.get<SearchResult>('./assets/prototype-storage/round-trip.json');
 			case 'one_way':
-				return this._http.get<SearchResult>('../../../assets/prototype-storage/one-way.json');
+				return this._http.get<SearchResult>('./assets/prototype-storage/one-way.json');
 			case 'multi_city':
-				return this._http.get<SearchResult>('../../../assets/prototype-storage/multicity.json');
+				return this._http.get<SearchResult>('./assets/prototype-storage/multicity.json');
 			default:
 				return undefined;
 		}
@@ -42,7 +42,7 @@ export class PrototypeVocabularyService implements VocabularyService {
 		if (!pattern) {
 			return Observable.create();
 		}
-		return this._http.get<Passenger[]>("../../../assets/prototype-storage/passengers.json")
+		return this._http.get<Passenger[]>("./assets/prototype-storage/passengers.json")
 			.pipe(map(data => {
 				return data.filter(x => (x.firstName && x.firstName.indexOf(pattern) != -1)
 										|| (x.surname && x.surname.indexOf(pattern) != -1))
