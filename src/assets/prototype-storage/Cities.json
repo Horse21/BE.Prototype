@@ -2106,31 +2106,6 @@
 		]
 	},
 	{
-		"id": 122,
-		"name": "Romeville",
-		"code": null,
-		"countryCode": null,
-		"isTransient": false,
-		"airports": [
-			{
-				"code": "ABC",
-				"name": "Super Airport 1"
-			},
-			{
-				"code": "CCC",
-				"name": "Alabama"
-			},
-			{
-				"code": "XCA",
-				"name": "Domodedovo"
-			},
-			{
-				"code": "XCA",
-				"name": "Vnukovo"
-			}
-		]
-	},
-	{
 		"id": 123,
 		"name": "Richmond",
 		"code": null,

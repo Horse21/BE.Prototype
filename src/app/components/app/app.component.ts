@@ -16,45 +16,37 @@ import {AuthData} from '../../dto/auth-data';
 
 const SIDEBAR_NAV_TABS: Array<ISidebarNavTab> = [
 	{name: 'search', label: 'Search', icon: 'search', type: 'button', url: null, disabled: false},
-	{name: 'filter', label: 'Filter', icon: 'filter_list', type: 'button', url: null, disabled: false},
+	{name: 'filter', label: 'Filter', icon: 'filter_list', type: 'button', url: null, disabled: true},
 	{name: 'history', label: 'History', icon: 'history', type: 'button', url: null, disabled: false},
 ];
 
 const SEARCH_HISTORY_DATA: ISearchHistoryCard[] = [
-	{ id: 1, payment: 'Payment on account', destination: 'Amsterdam, Netherlands', adultCount: 2, roomCount: 1 },
-	{ id: 2, payment: 'Payment on account', destination: 'Amsterdam, Netherlands', adultCount: 2, roomCount: 1 },
-	{ id: 3, payment: 'Payment on account', destination: 'Amsterdam, Netherlands', adultCount: 2, roomCount: 1 },
-	{ id: 4, payment: 'Payment on account', destination: 'Amsterdam, Netherlands', adultCount: 2, roomCount: 1 }
+	{ id: 1, payment: 'Payment on account', destination: 'Rome, Italy', adultCount: 2, roomCount: 1 },
+	{ id: 2, payment: 'Payment on account', destination: 'Rome, Italy', adultCount: 2, roomCount: 1 },
+	{ id: 3, payment: 'Payment on account', destination: 'Rome, Italy', adultCount: 2, roomCount: 1 },
+	{ id: 4, payment: 'Payment on account', destination: 'Rome, Italy', adultCount: 2, roomCount: 1 }
 ];
 
 const USER_CARD_DATA: IUserCardData = {
 	user: {
-		name: 'Sergey Strovatikov',
-		email: 'darkdes6@gmail.com',
-		avatarUrl: './assets/samples_img/avatar-picture.png',
+		name: 'Marco Montagni',
+		email: 'test@viaddi1.it',
+		avatarUrl: './assets/img/avatar.png',
 	},
 	actions: [
 		{
-			name: 'profile',
-			label: 'My Profile',
-			icon: 'person',
-			route: '',
-			type: 'button'
-		},
-		{
-			name: 'orders',
-			label: 'Orders',
-			icon: 'insert_drive_file',
-			route: '',
-			type: 'button'
-		},
+			name: 	'profile',
+			label:	'My profile',
+			icon:	'person',
+			route:	'',
+			type:	'button'
+		}
 	]
 };
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
-  //viewProviders: [MatIconRegistry],
 })
 export class AppComponent {
 	@ViewChild('sidenav') private _sidenav: MatSidenav;
@@ -89,7 +81,7 @@ export class AppComponent {
 	}
 
 	init() {
-		this.userName = '';
+		this.userName = 'Zucchetti | Marco Montagni';
 		this.userCardData = USER_CARD_DATA;
 		this.searchHistoryData = SEARCH_HISTORY_DATA;
 		this.activeSidenavPanel = 'search';
@@ -139,12 +131,12 @@ export class AppComponent {
 		this.activeSidenavPanel = tab.name;
 	}
 
-
 	search(options: SearchFlightDto): void {
 		this.searchResultVisibility = true;
 		this.sidebarNavTabs.find((item) => { return item.name == 'filter'; }).disabled = false;
 		setTimeout(() => {
 			this._searchResult.search(options);
+			this.sidebarNavTabs[1].disabled = false;
 			this.activeSidenavPanel = 'filter';
 		}, 0);
 	}
@@ -154,8 +146,14 @@ export class AppComponent {
 		this.searchResultViewMode = 'LIST';
 		this.sidebarNavTabs.find((item) => { return item.name == 'filter'; }).disabled = true;
 		if (this._searchResult) {
+			this.sidebarNavTabs[1].disabled = true;
 			this._searchResult.clear();
 		}
+	}
+
+	setSearchResultTitle(): void {
+		this._searchResult.titleText = "Rome, Italy (ROM) to - Milan, Italy (MIL)";
+		this._searchResult.subTitleText = "Fri 18 May - Fri 25 May 1 adult. Economy";
 	}
 
 	changeResultViewMode(mode: string): void {

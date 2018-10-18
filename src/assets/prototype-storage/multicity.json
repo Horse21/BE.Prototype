@@ -10,9 +10,9 @@
 					"flightNumber": "2912",
 					"resBookDesigCode": "V",
 					"elapsedTime": 195,
-					"departureAirportCode": "DFW",
+					"departureAirportCode": "LIN",
 					"departureAirportTerminal": "E",
-					"arrivalAirportCode": "LAX",
+					"arrivalAirportCode": "CIA",
 					"arrivalAirportTerminal": "2",
 					"arrivalLogo": "./assets/samples_img/swiss.svg",
 					"departureLogo": "./assets/samples_img/swiss.svg"
@@ -23,16 +23,16 @@
 					"flightNumber": "2912",
 					"resBookDesigCode": "V",
 					"elapsedTime": 190,
-					"departureAirportCode": "DFW",
+					"departureAirportCode": "LIN",
 					"departureAirportTerminal": "E",
-					"arrivalAirportCode": "ALB",
+					"arrivalAirportCode": "FCO",
 					"arrivalAirportTerminal": "C",
 					"arrivalLogo": "./assets/samples_img/swiss.svg",
 					"departureLogo": "./assets/samples_img/swiss.svg",
 					"transfers": [
 						{
 							"time": "2018-11-10T09:50:00+03:00",
-							"airportCode": "LAX"
+							"airportCode": "CIA"
 						}
 					]
 				},
@@ -42,9 +42,9 @@
 					"flightNumber": "2912",
 					"resBookDesigCode": "V",
 					"elapsedTime": 190,
-					"departureAirportCode": "DFW",
+					"departureAirportCode": "LIN",
 					"departureAirportTerminal": "E",
-					"arrivalAirportCode": "ALB",
+					"arrivalAirportCode": "FCO",
 					"arrivalAirportTerminal": "C",
 					"arrivalLogo": "./assets/samples_img/swiss.svg",
 					"departureLogo": "./assets/samples_img/swiss.svg"
@@ -55,9 +55,9 @@
 					"flightNumber": "2912",
 					"resBookDesigCode": "V",
 					"elapsedTime": 190,
-					"departureAirportCode": "DFW",
+					"departureAirportCode": "LIN",
 					"departureAirportTerminal": "E",
-					"arrivalAirportCode": "ALB",
+					"arrivalAirportCode": "FCO",
 					"arrivalAirportTerminal": "C",
 					"arrivalLogo": "./assets/samples_img/swiss.svg",
 					"departureLogo": "./assets/samples_img/swiss.svg"
@@ -74,16 +74,16 @@
 					"flightNumber": "2912",
 					"resBookDesigCode": "V",
 					"elapsedTime": 195,
-					"departureAirportCode": "DFW",
+					"departureAirportCode": "LIN",
 					"departureAirportTerminal": "E",
-					"arrivalAirportCode": "LAX",
+					"arrivalAirportCode": "CIA",
 					"arrivalAirportTerminal": "2",
 					"arrivalLogo": "./assets/samples_img/swiss.svg",
 					"departureLogo": "./assets/samples_img/swiss.svg",
 					"transfers": [
 						{
 							"time": "2018-11-10T09:50:00+03:00",
-							"airportCode": "LAX"
+							"airportCode": "CIA"
 						}
 					]
 				},
@@ -93,9 +93,9 @@
 					"flightNumber": "2912",
 					"resBookDesigCode": "V",
 					"elapsedTime": 190,
-					"departureAirportCode": "DFW",
+					"departureAirportCode": "LIN",
 					"departureAirportTerminal": "E",
-					"arrivalAirportCode": "ALB",
+					"arrivalAirportCode": "FCO",
 					"arrivalAirportTerminal": "C",
 					"arrivalLogo": "./assets/samples_img/swiss.svg",
 					"departureLogo": "./assets/samples_img/swiss.svg"
@@ -106,9 +106,9 @@
 					"flightNumber": "2912",
 					"resBookDesigCode": "V",
 					"elapsedTime": 190,
-					"departureAirportCode": "DFW",
+					"departureAirportCode": "LIN",
 					"departureAirportTerminal": "E",
-					"arrivalAirportCode": "ALB",
+					"arrivalAirportCode": "FCO",
 					"arrivalAirportTerminal": "C",
 					"arrivalLogo": "./assets/samples_img/swiss.svg",
 					"departureLogo": "./assets/samples_img/swiss.svg"
@@ -119,16 +119,16 @@
 					"flightNumber": "2912",
 					"resBookDesigCode": "V",
 					"elapsedTime": 190,
-					"departureAirportCode": "DFW",
+					"departureAirportCode": "LIN",
 					"departureAirportTerminal": "E",
-					"arrivalAirportCode": "ALB",
+					"arrivalAirportCode": "FCO",
 					"arrivalAirportTerminal": "C",
 					"arrivalLogo": "./assets/samples_img/swiss.svg",
 					"departureLogo": "./assets/samples_img/swiss.svg",
 					"transfers": [
 						{
 							"time": "2018-11-10T09:50:00+03:00",
-							"airportCode": "LAX"
+							"airportCode": "CIA"
 						}
 					]
 				}
@@ -144,9 +144,9 @@
 					"flightNumber": "2912",
 					"resBookDesigCode": "V",
 					"elapsedTime": 195,
-					"departureAirportCode": "DFW",
+					"departureAirportCode": "LIN",
 					"departureAirportTerminal": "E",
-					"arrivalAirportCode": "LAX",
+					"arrivalAirportCode": "CIA",
 					"arrivalAirportTerminal": "2",
 					"arrivalLogo": "./assets/samples_img/swiss.svg",
 					"departureLogo": "./assets/samples_img/swiss.svg"
@@ -157,9 +157,9 @@
 					"flightNumber": "2912",
 					"resBookDesigCode": "V",
 					"elapsedTime": 190,
-					"departureAirportCode": "DFW",
+					"departureAirportCode": "LIN",
 					"departureAirportTerminal": "E",
-					"arrivalAirportCode": "ALB",
+					"arrivalAirportCode": "FCO",
 					"arrivalAirportTerminal": "C",
 					"arrivalLogo": "./assets/samples_img/swiss.svg",
 					"departureLogo": "./assets/samples_img/swiss.svg"
@@ -170,20 +170,20 @@
 					"flightNumber": "2912",
 					"resBookDesigCode": "V",
 					"elapsedTime": 190,
-					"departureAirportCode": "DFW",
+					"departureAirportCode": "LIN",
 					"departureAirportTerminal": "E",
-					"arrivalAirportCode": "ALB",
+					"arrivalAirportCode": "FCO",
 					"arrivalAirportTerminal": "C",
 					"arrivalLogo": "./assets/samples_img/swiss.svg",
 					"departureLogo": "./assets/samples_img/swiss.svg",
 					"transfers": [
 						{
 							"time": "2018-11-10T09:50:00+03:00",
-							"airportCode": "LAX"
+							"airportCode": "CIA"
 						},
 						{
 							"time": "2018-11-10T09:50:00+03:00",
-							"airportCode": "DFW"
+							"airportCode": "LIN"
 						}
 					]
 				},
@@ -193,9 +193,9 @@
 					"flightNumber": "2912",
 					"resBookDesigCode": "V",
 					"elapsedTime": 190,
-					"departureAirportCode": "DFW",
+					"departureAirportCode": "LIN",
 					"departureAirportTerminal": "E",
-					"arrivalAirportCode": "ALB",
+					"arrivalAirportCode": "FCO",
 					"arrivalAirportTerminal": "C",
 					"arrivalLogo": "./assets/samples_img/swiss.svg",
 					"departureLogo": "./assets/samples_img/swiss.svg"

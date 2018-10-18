@@ -1,8 +1,9 @@
-<div class="container-fluid page_box mat-typography">
+<div class="container-fluid page_box zucchetti mat-typography">
 	<div class="row no-gutters page_header-box">
 		<div class="col-12 no-gutters">
-			<h21-header [userName]="'Horse B.V. | Serhey Strovatikov'"
+			<h21-header [userName]="userName"
 						[logotypeUrl]="'./assets/img/logo.svg'"
+						[showServicesMenuBtn]="false"
 						[userCardData]="userCardData"></h21-header>
 			<h21-top-toolbar [showSidenavToggle]="true"
 							 [sidenavToggleDisabled]="false"
@@ -48,7 +49,7 @@
 					<div class="page_sidenav-search-result"
 						 [class.__is-active]="searchResultVisibility"
 						 [class.page_sidenav-search-result__map]="searchResultViewMode == 'MAP'">
-						<h21-air-search-result *ngIf="searchResultVisibility" #searchResult></h21-air-search-result>
+						<h21-air-search-result *ngIf="searchResultVisibility" #searchResult (onSearchResultReady)="setSearchResultTitle()"></h21-air-search-result>
 					</div>
 				</mat-sidenav-content>
 			</mat-sidenav-container>

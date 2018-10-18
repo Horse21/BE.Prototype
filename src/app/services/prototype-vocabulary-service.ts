@@ -15,9 +15,11 @@ export class PrototypeVocabularyService implements VocabularyService {
 		if (!pattern || pattern.length < 2) {
 			return Observable.create();
 		}
+
+		let _pattern = pattern.toString().toLowerCase();
 		return this._http.get<City[]>("./assets/prototype-storage/Cities.json")
 			.pipe(map(data => {
-				return data.filter(x => x.name.indexOf(pattern) != -1)
+				return data.filter(x => x.name.toLowerCase().indexOf(_pattern) != -1)
 					.filter((i, index) => (
 						index < 10
 					));

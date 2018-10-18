@@ -14,3 +14,39 @@ h21-map {
 	height: 100%;
 	width: 100%;
 }
+
+$zucchetti-bg-light: #DDDDDD;
+$zucchetti-fg-light: #4f5a7c;
+
+.zucchetti {
+	.c-h21-sidebar_nav,
+	.mat-toolbar.c-h21-header_toolbar {
+		background: $zucchetti-bg-light;
+		color: $zucchetti-fg-light;
+	}
+	.c-h21-sidebar_nav {
+		.mat-button {
+			color: $zucchetti-fg-light;
+			.mat-icon {
+				color: $zucchetti-fg-light;
+			}
+			&[disabled] {
+				color: $zucchetti-fg-light;
+			}
+			&:hover:not(:disabled) .mat-button-focus-overlay {
+				background-color: $zucchetti-fg-light;
+				opacity: .10;
+			}
+			&.is-active .mat-button-focus-overlay {
+				background: none;
+			}
+		}
+	}
+	.mat-toolbar.c-h21-header_toolbar {
+		> nav .mat-button:hover .mat-button-focus-overlay,
+		> nav .mat-icon-button:hover .mat-button-focus-overlay {
+			background-color: $zucchetti-fg-light;
+			opacity: .10;
+		}
+	}
+}
