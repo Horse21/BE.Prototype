@@ -1,9 +1,9 @@
-import { HttpClient } from '@angular/common/http';
-import { Injectable } from '@angular/core';
-import { map } from 'rxjs/internal/operators';
-import { VocabularyService } from 'h21-be-ui-kit';
-import { Observable } from 'rxjs';
-import { SearchFlightDto, Passenger, SearchResult, City } from 'h21-be-ui-kit';
+import {HttpClient} from '@angular/common/http';
+import {Injectable} from '@angular/core';
+import {map} from 'rxjs/internal/operators';
+import {IHotelInfo, IHotelSearchOptions, VocabularyService} from 'h21-be-ui-kit';
+import {Observable} from 'rxjs';
+import {SearchFlightDto, Passenger, SearchResult, City} from 'h21-be-ui-kit';
 
 @Injectable()
 export class PrototypeVocabularyService implements VocabularyService {
@@ -50,5 +50,8 @@ export class PrototypeVocabularyService implements VocabularyService {
 						index < 10
 					));
 			}));
+	}
+	public searchHotels(options: IHotelSearchOptions): Observable<IHotelInfo[]> {
+		return null;
 	}
 }

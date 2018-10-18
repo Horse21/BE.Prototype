@@ -3,19 +3,28 @@ import { NgModule } from '@angular/core';
 import { NouisliderModule } from 'ng2-nouislider';
 import { PrototypePermissionService } from '../app/services/prototype-permission-service';
 import { PrototypeVocabularyService } from '../app/services/prototype-vocabulary-service';
-import { PermissionService } from 'h21-be-ui-kit';
+import {
+	H21HeaderModule,
+	H21TopToolbarModule,
+	H21AirFilterPanelModule,
+	H21AirSearchPanelModule,
+	H21AirSearchResultModule,
+	H21SearchHistoryPanelModule,
+	PermissionService,
+	OrderService,
+	VocabularyService,
+	H21RightOverlayPanelService,
+	AppSubscriberService,
+	H21SidebarNavModule
+} from 'h21-be-ui-kit';
 import { MatInputModule, MatNativeDateModule } from '@angular/material';
-import { VocabularyService } from 'h21-be-ui-kit';
-import { H21RightOverlayPanelService } from 'h21-be-ui-kit';
-import { AppSubscriberService } from 'h21-be-ui-kit';
-import { OrderService } from 'h21-be-ui-kit';
-import { AppComponent } from './app.component';
+import { AppComponent } from './components/app/app.component';
 import { RouterModule, Routes } from '@angular/router';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { AppMaterialModule } from './modules/app-material.module';
-import { H21HeaderModule, H21SidebarModule, H21TopToolbarModule } from 'h21-be-ui-kit';
 import { ReactiveFormsModule, FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
+import { H21MapComponent } from './components/h21-map/h21-map.component';
 
 
 const routes: Routes = [
@@ -25,7 +34,8 @@ const routes: Routes = [
 
 @NgModule({
 		declarations: [
-			AppComponent
+			AppComponent,
+			H21MapComponent,
 		],
 		imports: [
 			BrowserModule,
@@ -39,8 +49,12 @@ const routes: Routes = [
 			MatNativeDateModule,
 			NouisliderModule,
 			H21HeaderModule,
-			H21SidebarModule,
-			H21TopToolbarModule
+			H21SidebarNavModule,
+			H21TopToolbarModule,
+			H21AirSearchResultModule,
+			H21AirFilterPanelModule,
+			H21AirSearchPanelModule,
+			H21SearchHistoryPanelModule
 		],
 		providers: [
 			{

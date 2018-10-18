@@ -17550,5 +17550,39 @@
 				"name": "Domodedovo"
 			}
 		]
+	},
+	{
+		"id": 1000,
+		"name": "Rome, Italy",
+		"code": "ROM",
+		"countryCode": null,
+		"isTransient": false,
+		"airports": [
+			{
+				"code": "CIA",
+				"name": "Ciampino"
+			},
+			{
+				"code": "FCO",
+				"name": "Fiumicino"
+			}
+		]
+	},
+	{
+		"id": 1001,
+		"name": "Milan, Italy",
+		"code": "MIL",
+		"countryCode": null,
+		"isTransient": false,
+		"airports": [
+			{
+				"code": "LIN",
+				"name": "Linate"
+			},
+			{
+				"code": "MXP",
+				"name": "Malpensa"
+			}
+		]
 	}
 ]
