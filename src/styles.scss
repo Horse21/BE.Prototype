@@ -1,0 +1,16 @@
+@import '~h21-be-ui-kit/h21-theme.scss';
+
+html, body {
+	min-height: 100%;
+	font-family: mat-font-family($h21-mat-typography);
+	color: $h21-fg-base;
+}
+
+h21-map {
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	height: 100%;
+	width: 100%;
+}

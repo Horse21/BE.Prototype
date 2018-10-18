@@ -1,0 +1,58 @@
+<div class="container-fluid page_box mat-typography">
+	<div class="row no-gutters page_header-box">
+		<div class="col-12 no-gutters">
+			<h21-header [userName]="'Horse B.V. | Serhey Strovatikov'"
+						[logotypeUrl]="'./assets/img/logo.svg'"
+						[userCardData]="userCardData"></h21-header>
+			<h21-top-toolbar [showSidenavToggle]="true"
+							 [sidenavToggleDisabled]="false"
+							 [sidenavOpened]="sidenavOpened"
+							 [showCart]="false"
+							 [showLanguageControl]="true"
+							 [showCurrencyControl]="true"
+							 (onSidenavToggle)="sidenavToggle()"></h21-top-toolbar>
+		</div>
+	</div>
+	<div class="row no-gutters page_content-box">
+		<div class="col-12 no-gutters __has-sidebar">
+			<h21-sidebar-nav [selected]="activeSidenavPanel"
+							 [disabled]="sidebarNavDisabled"
+							 [(tabs)]="sidebarNavTabs"
+							 (onChanged)="showSidebarPanel($event)"></h21-sidebar-nav>
+			<mat-sidenav-container [hasBackdrop]="contentSidenavHasBackdrop">
+
+				<mat-sidenav #sidenav
+							 position="start"
+							 [mode]="sidenavMode"
+							 [opened]="sidenavOpened"
+							 class="page_left-sidenav">
+					<div class="page_left-sidenav-inner">
+						<div class="page_sidenav-search-actions">
+							<h21-air-search-panel *ngIf="activeSidenavPanel == 'search'"
+												  (onSearch)="search($event)"
+												  (onClearSearch)="clearSearch()"></h21-air-search-panel>
+							<h21-air-filter-panel *ngIf="activeSidenavPanel == 'filter'"
+												  [viewMode]="searchResultViewMode"
+												  (onChangeViewMode)="changeResultViewMode($event)"></h21-air-filter-panel>
+							<h21-search-history-panel *ngIf="activeSidenavPanel == 'history'"
+													  [data]="this.searchHistoryData"
+							></h21-search-history-panel>
+						</div>
+					</div>
+				</mat-sidenav>
+
+				<mat-sidenav-content #contentSidenav>
+					<div class="page_content">
+						<h21-map></h21-map>
+					</div>
+					<div class="page_sidenav-search-result"
+						 [class.__is-active]="searchResultVisibility"
+						 [class.page_sidenav-search-result__map]="searchResultViewMode == 'MAP'">
+						<h21-air-search-result *ngIf="searchResultVisibility" #searchResult></h21-air-search-result>
+					</div>
+				</mat-sidenav-content>
+			</mat-sidenav-container>
+		</div>
+	</div>
+	<button mat-fab class="page_help-btn" (click)="openHelpSection()" color="warn">?</button>
+</div>

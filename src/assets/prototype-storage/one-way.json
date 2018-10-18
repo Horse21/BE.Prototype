@@ -14,8 +14,8 @@
 					"departureAirportTerminal": "E",
 					"arrivalAirportCode": "LAX",
 					"arrivalAirportTerminal": "2",
-					"arrivalLogo": "swiss.svg",
-					"departureLogo": "swiss.svg"
+					"arrivalLogo": "./assets/samples_img/swiss.svg",
+					"departureLogo": "./assets/samples_img/swiss.svg"
 
 				}
 			]
@@ -34,8 +34,8 @@
 					"departureAirportTerminal": "E",
 					"arrivalAirportCode": "LAX",
 					"arrivalAirportTerminal": "2",
-					"arrivalLogo": "swiss.svg",
-					"departureLogo": "swiss.svg",
+					"arrivalLogo": "./assets/samples_img/swiss.svg",
+					"departureLogo": "./assets/samples_img/swiss.svg",
 					"transfers": [
 						{
 							"time": "2018-11-10T09:50:00+03:00",
@@ -59,8 +59,8 @@
 					"departureAirportTerminal": "E",
 					"arrivalAirportCode": "LAX",
 					"arrivalAirportTerminal": "2",
-					"arrivalLogo": "swiss.svg",
-					"departureLogo": "swiss.svg"
+					"arrivalLogo": "./assets/samples_img/swiss.svg",
+					"departureLogo": "./assets/samples_img/swiss.svg"
 				}
 			]
 		}
